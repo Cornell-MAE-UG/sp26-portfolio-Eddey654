@@ -6,7 +6,7 @@ title: <Eduardo Silva>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "Iminthemiddle.jpeg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{Eduardo Silva}}, and I am a first genreation student that comes from a Mexican family. I love engineering but during my free time I like to play in a mariachi and make food. I currently work at Dos Amigos as a Lead Associate. And back at home I help my dad in construction or help my mom working in the fields. 
+Hello my name is Eduardo Silva my family is from Mexico but I was born and raise in Hillsboro OR. While I am at home I like to help my dad in construction and during the summer I like to work in the Blueberry fields with my mom. In Ithaca when Im not solving a crazy math problem I'm either leading shifts at dos amigos food or I am running a Mariachi. 
