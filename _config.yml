@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
-title_separator          : "-"
+title                    : Eduardo
+title_separator          : "Eduardos Portfolio"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Eduardo Silva
+description              : Eduardo Silva - Projects and CV 
+baseurl                  : "/<sp26-portfolio-Eddey654>/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
