@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Eduardo Silva> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -19,56 +19,29 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Undergraduate
 
-- **[High School Name]**  
+- **[Hillsboro High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2021]
 
 ---
 
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+#### Skills  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Tools:** 3D Printing, Laser Cutting
+- **Music:** Trumpet, Trombone, Tuba, Baritone, Guitar, Vihuela
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **[Dos Amigos] - Lead Associate**  
+  [March,2024] - [Current]  
+  - Make sure everything is completing their taskes.  
+  - Ordering supplies and ingerdiates in order to make sure the resturante can run smoothly. 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
+- President of [Marachi Regional en Cornell University] 
 ---
