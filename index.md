@@ -27,3 +27,7 @@ My third and final option was to use the Linear Motion Actuator which can go up 
 ![Product3]({{ "/assets/images/Product3.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Just to see more of options I decide to mix two Linear Actuators. I decided to mix IP65 Mini Linear Actuator - Optional Feedback and IP65 Micro Linear Actuator. Using one of each on both sides with the IP65 Micro costing $67.99USD a piece and the IP65 Mini costing $114.99USD piece it would be a total $365.96USD Which even thought its cheaper the the first two options it not as cheap or efficient the third options. 
+
+![IMG_3787]({{ "/assets/images/IMG_3787.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![IMG_3788]({{ "/assets/images/IMG_3788.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![IMG_3789]({{ "/assets/images/IMG_3789.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
